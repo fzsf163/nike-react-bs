@@ -1,3 +1,20 @@
+/* 
+    custome css class 😋😋😋😋😋
+*/
+
+/* slider height */
 .slider-height{
     height: 80vh;
+}
+
+/* scaling the shoes to adjust */
+
+/* shoe 1 */
+.scale-a-little{
+    transform: scale(.8);
+}
+
+/* shoe 2 */
+.scale-a-little-b{
+    transform: scale(0.9);
 }
